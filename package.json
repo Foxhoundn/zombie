@@ -1,8 +1,8 @@
 {
-  "name": "zombie",
+  "name": "zombie-latest",
   "version": "4.2.1",
   "description": "Insanely fast, full-stack, headless browser testing using Node.js",
-  "homepage": "https://www.npmjs.com/package/zombie",
+  "homepage": "https://www.npmjs.com/package/zombie-latest",
   "author": "Assaf Arkin <assaf@labnotes.org> (http://labnotes.org/)",
   "contributors": [
     "Bob Lail <bob.lailfamily@gmail.com> (http://boblail.tumblr.com/)",

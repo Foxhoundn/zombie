@@ -3,7 +3,7 @@ const brains  = require('./helpers/brains');
 const Browser = require('../src');
 
 
-describe('Google map', function() {
+describe.skip('Google map', function() {
   const browser = new Browser();
 
   before(function() {
