@@ -1,4 +1,5 @@
 .babelrc
+.idea
 .changes
 .eslintrc
 .travis.yml
